@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -16,6 +17,7 @@ import com.kashi.service.AlertServiceImpl;
 
 @RestController
 @RequestMapping("/api/v1")
+@CrossOrigin
 public class AlertController {
 
 	@Autowired
@@ -27,8 +29,9 @@ public class AlertController {
 	}
 	
 	@GetMapping("/alerts")
-	public ResponseEntity<List<Alert>> getAlerts() {
-		return new ResponseEntity<List<Alert>>(service.getAllAlerts(), HttpStatus.OK);
+	public List<Alert> getAlerts() {
+		
+		return service.getAllAlerts();
 	}
 	
 	
