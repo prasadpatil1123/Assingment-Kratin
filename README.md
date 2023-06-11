@@ -11,6 +11,9 @@
 # User Interface for Notification Dashboard, Notifications displayed here will be triggered by our notification service and will be delivered as email/mobile/in app notification
 
 
+![3](https://github.com/prasadpatil1123/Assingment-Kratin/assets/122286888/16ec631a-d54a-4516-b189-b927232de010)
+
+
 # Assingment-Kratin | User Interface For Dashboard Where information about calerie burns
 
 
