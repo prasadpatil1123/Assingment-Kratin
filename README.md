@@ -18,3 +18,6 @@
 
 
 ![2023-06-11 (1)](https://github.com/prasadpatil1123/Assingment-Kratin/assets/122286888/b0d71f71-25af-438e-9595-aed7fed65a48)
+
+
+![2](https://github.com/prasadpatil1123/Assingment-Kratin/assets/122286888/51d3e99d-3f40-4d76-a5a8-057c2020d455)
