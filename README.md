@@ -11,5 +11,3 @@
 ![2023-06-11 (7)](https://github.com/prasadpatil1123/Assingment-Kratin/assets/122286888/005a3627-2fbb-4f69-b036-3bed9ab0c16f)
 
 # Assingment-Kratin | User Interface For Dashboard Where information about calerie burns
-
-![2023-06-11 (2)](https://github.com/prasadpatil1123/Assingment-Kratin/assets/122286888/87ad115f-124c-4f09-b957-def365003b2d)
