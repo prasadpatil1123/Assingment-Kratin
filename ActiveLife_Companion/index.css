@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+main {
+    margin-top: 50px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#stepCount,
+#distance,
+#calories,
+#recommendation {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#recommendation {
+    font-style: italic;
+}
+
+#recommendation:before {
+    content: "🏋️ ";
+}
+
